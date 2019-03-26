@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="ToolBarLayout">
+        <attr name="baseLayoutId" format="reference" />
+        <attr name="menuLayoutId" format="reference" />
+        <attr name="title" format="string|reference" />
+    </declare-styleable>
+</resources>
